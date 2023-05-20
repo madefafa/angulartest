@@ -1,0 +1,12 @@
+* {
+  font-family: Arial, '思源黑体', sans-serif
+}
+
+input.ng-dirty.ng-invalid {
+  border: 2px solid rgb(255, 123, 123);
+}
+
+
+input.ng-dirty.ng-valid {
+  border: 2px solid rgb(38, 146, 110);
+}
